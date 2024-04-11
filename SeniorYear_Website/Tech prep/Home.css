@@ -1,0 +1,31 @@
+/* style for the mission statement box */
+#mission{
+	font-size: 26px;
+	font-style: italic;
+	font-style: bold;
+	border: true;
+	color: black;
+	border-top: 4px double black;
+	border-bottom:4px double black;
+	border-left: 4px double black;
+	border-right:4px double black;
+	margin-left: 250px;
+	margin-right: 250px;
+}
+/* box for the store hours */
+#hours{
+	font-size: 18pt;
+	border: true;
+	color: black;
+	border-style: outset;
+	border-width: 6px;
+	border-radius: 15px;
+	background-color: tan;
+	margin-left: 325px;
+	margin-right: 325px;
+}
+/*centering for the slideshow */
+html{
+	margin-left:auto;
+	margin-right:auto;
+}

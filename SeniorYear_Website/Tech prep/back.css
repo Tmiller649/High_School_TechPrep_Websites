@@ -1,0 +1,49 @@
+/* Styling for the header for the admin page */
+header{		
+
+	font-size: 25px;
+	text-align: center;
+	background-color:red;
+	border-radius: 25px;
+	border: true;
+	color: black;
+	border-top: 2px solid black;
+	border-bottom:2px solid black;
+	border-left: 2px solid black;
+	border-right:2px solid black;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top:50px;
+	padding-bottom: 10px;
+}
+
+body{
+	text-align: center;
+}
+p{
+	font-size: 20px;
+	font-style: bold;
+}
+.text{
+	width:20%;
+	height:15%;
+	padding: 12px 12px;
+}
+/* styling for the database tables */
+.btn{
+	font-size: 20px;
+}
+
+table{
+	margin-left:auto;
+	margin-right:auto;
+}
+.button{
+	border: false;
+}
+tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+.first{
+	background-color: red;
+}

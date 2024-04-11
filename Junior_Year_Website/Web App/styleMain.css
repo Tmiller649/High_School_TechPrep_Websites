@@ -1,0 +1,44 @@
+main {
+	padding-bottom: 130px;
+	text-align: center;
+	width: 100%;
+    background-color: #fff;
+    border: solid 2px #fff;
+    box-shadow:
+        inset 60px 0 120px #f00,
+        inset -60px 0 120px #00f;
+}
+header img{
+	padding-right:0px;
+}
+header{
+	display: block;
+	vertical-align: middle;
+	text-align: center;
+}
+
+h1 {
+text-align: center;
+}
+
+footer{
+	font-family: Impact, Charcoal, sans-serif;
+	text-align: center;
+}
+#logo{
+	padding-top:80px;
+}
+hr{
+	width: 50%;
+	border-top: 1px solid black;
+	border: 3px solid black;
+	border-radius: 3px;	
+}
+form{
+}
+
+button{
+ border-radius: 10px;
+ font-size: 18px;
+
+}

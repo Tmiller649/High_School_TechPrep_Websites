@@ -1,0 +1,54 @@
+/*formatting for the background of the website */
+html{
+	background-color: black; padding-left: 250px; padding-right: 250px; 
+}
+body{
+	background-color: white;
+	}
+#pageContent {text-align: Center;}
+
+/* Styling for the buttons on each page */
+#link a{	
+	border: true;
+	color: white;
+	font-size: 32px;
+	padding: 5px;
+	border-top: 4px solid black;
+	border-bottom:4px solid black;
+	border-left: 4px solid black;
+	border-right:4px solid black;
+	background-color: red;	
+}  
+#link a:hover{
+	background-color: black;
+}
+Header{
+	font-size:45px;
+	text-align: Center;
+
+}
+h1{
+	text-align: Center;
+	font-size: 48px;
+}    
+h2{
+	font-size:35px;
+	text-align: Center;
+}
+legend{
+		text-align: Center;
+		font-size: 38px;
+}
+footer{
+	font-size:20px;
+	text-align: Center;
+	padding-bottom:1px;
+}
+
+
+
+
+
+
+
+
